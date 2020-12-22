@@ -376,6 +376,21 @@ input[type=submit] {
                     <option value="4">Langata Baracks</option>
                     <option value="5">Westlands</option>
                     <option value="6">Docks</option>
+                    <option value="7">Ballerina</option>
+                    <option value="8">Bamburi</option>
+                    <option value="9">Mtwapa</option>
+                    <option value="10">Runda</option>
+                    <option value="11">Kibokoni</option>
+                    <option value="12">Tewa</option>
+                    <option value="13">Mewa</option>
+                    <option value="14">Markiti</option>
+                    <option value="15">Docks</option>
+                    <option value="16">Changamwe</option>
+                    <option value="17">LA</option>
+                    <option value="18">Pari</option>
+                    <option value="19">Afrique</option>
+                    <option value="20">Kanji</option>
+                    <option value="21">wwerdja</option>
                 </select>
 
                 <p>After selecting the above fill the form below</p>

@@ -92,6 +92,22 @@
             <option value="Mvita">Mvita</option>
             <option value="Austa">Austa</option>
             <option value="Docks">Docks</option>
+            <option value="Mto">Mtongwe</option>
+                    <option value="Balle">Ballerina</option>
+                    <option value="Bam">Bamburi</option>
+                    <option value="Mtw">Mtwapa</option>
+                    <option value="Ru">Runda</option>
+                    <option value="Kib">Kibokoni</option>
+                    <option value="Tewa">Tewa</option>
+                    <option value="Mewa">Mewa</option>
+                    <option value="Mar">Markiti</option>
+                    <option value="Doc">Docks</option>
+                    <option value="Chan">Changamwe</option>
+                    <option value="la">LA</option>
+                    <option value="Par">Pari</option>
+                    <option value="afri">Afrique</option>
+                    <option value="kan">Kanji</option>
+                    <option value="wwer">wwerdja</option>
           </select>
                     <label for="subject">Subject</label>
                     <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>

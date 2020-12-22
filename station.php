@@ -265,6 +265,23 @@ input[type=submit] {
                     <option value="4">Langata Baracks</option>
                     <option value="5">Westlands</option>
                     <option value="6">Docks</option>
+                    <option value="6">Docks</option>
+                    <option value="7">Ballerina</option>
+                    <option value="8">Bamburi</option>
+                    <option value="9">Mtwapa</option>
+                    <option value="10">Runda</option>
+                    <option value="11">Kibokoni</option>
+                    <option value="12">Tewa</option>
+                    <option value="13">Mewa</option>
+                    <option value="14">Markiti</option>
+                    <option value="15">Docks</option>
+                    <option value="16">Changamwe</option>
+                    <option value="17">LA</option>
+                    <option value="18">Pari</option>
+                    <option value="19">Afrique</option>
+                    <option value="20">Kanji</option>
+                    <option value="21">wwerdja</option>
+
                 </select>
                 <br>
                 </br>
@@ -276,6 +293,22 @@ input[type=submit] {
 <option value="4">2390, Langata Baracks</option>
 <option value="5">5098, Westlands</option>
 <option value="6">6790, Docks</option>
+                    <option value="7"> 23456,Ballerina</option>
+                    <option value="8">2456,Bamburi</option>
+                    <option value="9">23456,Mtwapa</option>
+                    <option value="10">5678,Runda</option>
+                    <option value="11">789876,Kibokoni</option>
+                    <option value="12">7653456,Tewa</option>
+                    <option value="13">123456,Mewa</option>
+                    <option value="14">776534,Markiti</option>
+                    <option value="15">0876234,Docks</option>
+                    <option value="16">3456,Changamwe</option>
+                    <option value="17">643345,LA</option>
+                    <option value="18">345654,Pari</option>
+                    <option value="19">234654,Afrique</option>
+                    <option value="20">345677,Kanji</option>
+                    <option value="21">87458,wwerdja</option>
+
 
 </select>
 <br>
@@ -288,6 +321,22 @@ input[type=submit] {
 <option value="4">020-333999, Langata Baracks</option>
 <option value="5">020-433567, Westlands</option>
 <option value="6">020-456790, Docks</option>
+<option value="6">020-546777,Mtongwe</option>
+                    <option value="7">020-45678,Ballerina</option>
+                    <option value="8">020-345687,Bamburi</option>
+                    <option value="9">020-234566,Mtwapa</option>
+                    <option value="10">020-564372,Runda</option>
+                    <option value="11">020-456789,Kibokoni</option>
+                    <option value="12">020-345667,Tewa</option>
+                    <option value="13">020-2345677,Mewa</option>
+                    <option value="14">020-45678765,Markiti</option>
+                    <option value="15">020-34567888,Docks</option>
+                    <option value="16">020-452678929,Changamwe</option>
+                    <option value="17">020-56980000,LA</option>
+                    <option value="18">020-367323,Pari</option>
+                    <option value="19">020-3456765,Afrique</option>
+                    <option value="20">020-4212121,Kanji</option>
+                    <option value="21">020-2345554,wwerdja</option>
 
 </select>
 
